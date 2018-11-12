@@ -1,4 +1,22 @@
 img{
-    width:100px;
-    height:100px;
+    width:560px;
+    height:315px;
 }
+table{
+    width: 80%;
+}
+header{
+    background: #AC82CA;
+}
+body{
+    background: #B3D8F3;
+}
+#indice li{
+    display: inline;
+    background-color: #AC82CA;
+    font-size: 20px;
+}
+object {
+    width: 3000;
+    height: 1000;
+  } 
