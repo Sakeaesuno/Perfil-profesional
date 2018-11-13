@@ -20,3 +20,9 @@ object {
     width: 3000;
     height: 1000;
   } 
+  footer{
+      position: absolute;
+  }
+  #footer{
+      
+  }
