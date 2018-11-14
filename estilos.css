@@ -1,9 +1,9 @@
 img{
-    width:560px;
-    height:315px;
+    width:100%;
+    height:100%;
 }
-table{
-    width: 80%;
+table.tod{
+    width: 100%;
 }
 header{
     background: #AC82CA;
@@ -26,3 +26,12 @@ object {
   #footer{
       
   }
+  table#gran{
+    width: 100%;
+    height:100%;
+    
+}
+td{
+    width: 120px;
+    height: 150px;
+}
